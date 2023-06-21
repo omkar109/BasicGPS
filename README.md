@@ -1,2 +1,2 @@
 # BasicGPS
-This project works as a very basic GPS using the Graph data structure
+This project works as a very basic GPS using a directed Graph data structure. This code was developed with a group of 4 people for a project for our CS-400 class at UW-Madison. Unfortunately, this project is not functional because of a missing frontend. My main contributions to this project were with the algorithms, specifically in the GpsAE.java, AlgorithmEngineerInterface.java, AlgorithmEngineerTests.java and DijkstraGraph.java files. 
